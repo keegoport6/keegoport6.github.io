@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name Data Science Portfolio"
+  title: "Keegan Porter"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/your_url
+  repo-url: https://github.com/keegoport6/keegoport6.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2023©"
+    left: "Keegan Porter"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/keegan-trey-porter-74070b306
 
   navbar:
     background: primary
@@ -73,6 +73,4 @@ format:
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
-
 
