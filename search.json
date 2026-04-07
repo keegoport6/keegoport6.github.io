@@ -79,79 +79,90 @@
   {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
-    "title": "about me",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
+    "objectID": "full_stack.html#under-construction",
+    "href": "full_stack.html#under-construction",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
     "objectID": "competition.html",
     "href": "competition.html",
-    "title": "about me",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
+    "objectID": "competition.html#under-construction",
+    "href": "competition.html#under-construction",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
     "objectID": "cleansing.html",
     "href": "cleansing.html",
-    "title": "about me",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
+    "objectID": "cleansing.html#under-construction",
+    "href": "cleansing.html#under-construction",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
     "objectID": "exploration.html",
     "href": "exploration.html",
-    "title": "about me",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "objectID": "exploration.html#under-construction",
+    "href": "exploration.html#under-construction",
+    "title": "Coming Soon",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "This section of my portfolio is currently under construction. I will be uploading my Python code, data visualizations, and project write-ups here as I complete them throughout the semester.\nCheck back soon!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Keegan Porter",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "I am a Business Analytics student at Brigham Young University-Idaho with a passion for leveraging data to drive strategic business decisions and scale creative projects.\nMy background is a blend of analytical problem-solving and hands-on entrepreneurship. Alongside my studies, I founded and operate K.Rise.Media LLC, a social media marketing agency, as well as a professional photography business. I am always looking for ways to bridge the gap between technical development and real-world application, which recently culminated in the successful launch of my mobile app, Mellom, on the iOS App Store.\nWhether it is running local AI models, optimizing business operations, or telling a story through a camera lens, I love building things that work efficiently and look great.\nWhen I am not at my computer, you can usually find me out running, mountain biking, trying to dial in my swing on the golf simulator, or practicing my Norwegian.\nFeel free to explore my recent data science projects and technical coursework using the navigation menu above!"
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "index.html#welcome-to-my-portfolio",
+    "href": "index.html#welcome-to-my-portfolio",
+    "title": "Keegan Porter",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "I am a Business Analytics student at Brigham Young University-Idaho with a passion for leveraging data to drive strategic business decisions and scale creative projects.\nMy background is a blend of analytical problem-solving and hands-on entrepreneurship. Alongside my studies, I founded and operate K.Rise.Media LLC, a social media marketing agency, as well as a professional photography business. I am always looking for ways to bridge the gap between technical development and real-world application, which recently culminated in the successful launch of my mobile app, Mellom, on the iOS App Store.\nWhether it is running local AI models, optimizing business operations, or telling a story through a camera lens, I love building things that work efficiently and look great.\nWhen I am not at my computer, you can usually find me out running, mountain biking, trying to dial in my swing on the golf simulator, or practicing my Norwegian.\nFeel free to explore my recent data science projects and technical coursework using the navigation menu above!"
   },
   {
     "objectID": "Projects/project1.html",
     "href": "Projects/project1.html",
-    "title": "Client Report - [Insert Project Title]",
+    "title": "Data Science Projects",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "text": "This section contains the data science projects I am completing for my DS 250: Data Science Programming course at Brigham Young University-Idaho.\nThrough these projects, I apply data analytics principles to real-world datasets. The core tools used in these projects include:\n\nPython: The primary programming language used for all logic and data manipulation.\nPandas: Used extensively for data cleansing, filtering, and structuring.\nPlotly Express: Used to build interactive charts and data visualizations that tell a clear story.\nScikit-Learn: Used for introductory machine learning applications and predictive modeling.\n\nYou can navigate through my specific project write-ups and code using the sidebar or the navigation menu above.",
+    "crumbs": [
+      "DS250 Projects",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Projects/project1.html#coursework-overview",
+    "href": "Projects/project1.html#coursework-overview",
+    "title": "Data Science Projects",
+    "section": "",
+    "text": "This section contains the data science projects I am completing for my DS 250: Data Science Programming course at Brigham Young University-Idaho.\nThrough these projects, I apply data analytics principles to real-world datasets. The core tools used in these projects include:\n\nPython: The primary programming language used for all logic and data manipulation.\nPandas: Used extensively for data cleansing, filtering, and structuring.\nPlotly Express: Used to build interactive charts and data visualizations that tell a clear story.\nScikit-Learn: Used for introductory machine learning applications and predictive modeling.\n\nYou can navigate through my specific project write-ups and code using the sidebar or the navigation menu above.",
     "crumbs": [
       "DS250 Projects",
       "Project 1"
